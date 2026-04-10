@@ -43,14 +43,20 @@ I have experience in developing bottom-up emission inventories, numerical modeli
 
 ## 📚 Publications & Projects
 
-* https://www.nature.com/articles/s41598-026-39558-5
-* https://linkinghub.elsevier.com/retrieve/pii/S1309104226000140
-* https://www.kireports.org/article/S2468-0249(24)00694-6/fulltext
-* https://journals.lww.com/jasn/fulltext/2024/10001/impact_of_pm2_5_pollution_on_kidney_diseases_in.2612.aspx
-* https://www.mdpi.com/1660-4601/19/24/16521
-* https://link.springer.com/article/10.1186/s12940-020-00606-w
+* 🔗 https://www.nature.com/articles/s41598-026-39558-5
+* 🔗 https://linkinghub.elsevier.com/retrieve/pii/S1309104226000140
+* 🔗 https://www.kireports.org/article/S2468-0249(24)00694-6/fulltext
+* 🔗 https://journals.lww.com/jasn/fulltext/2024/10001/impact_of_pm2_5_pollution_on_kidney_diseases_in.2612.aspx
+* 🔗 https://www.mdpi.com/1660-4601/19/24/16521
+* 🔗 https://link.springer.com/article/10.1186/s12940-020-00606-w
 ---
 
+## 📁 Projects
+
+* INCT - Klimapólis: Sub-rede ar e ruído
+- **Projeto O₃ – PEGA Developer**  
+  🔗 https://github.com/atmoschem/pega
+---
 ## 📫 Contact
 
 * e-mail: isilva@utfpr.edu.br
@@ -58,7 +64,6 @@ I have experience in developing bottom-up emission inventories, numerical modeli
 * Lattes: http://lattes.cnpq.br/3243591335541060
 * orc-id: https://orcid.org/0000-0003-1306-5906
 * LinkedIn: https://www.linkedin.com/in/iara-da-silva-978604a8/
-* 
 
 ---
 
