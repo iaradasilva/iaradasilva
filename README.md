@@ -1,4 +1,4 @@
-# 👩‍🔬 Iara da Silva
+Hi, I'm Iara 👋
 
 Postdoctoral Researcher in Atmospheric Science
 
