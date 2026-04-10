@@ -54,7 +54,6 @@ I have experience in developing bottom-up emission inventories, numerical modeli
 ## 📁 Projects
 
 - **INCT - Klimapólis: Sub-rede ar e ruído**
-  
   🔗 https://inctklimapolis.org/ar-e-ruido/
   
 - **Projeto O₃ – PEGA Development Team**  
