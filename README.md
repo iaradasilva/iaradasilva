@@ -1,4 +1,4 @@
-Hi, I'm Iara 👋
+## Hi, I'm Iara 👋
 
 Postdoctoral Researcher in Atmospheric Science
 
@@ -41,7 +41,7 @@ I have experience in developing bottom-up emission inventories, numerical modeli
 
 ---
 
-## 📚 Publications & Projects
+## 📚 Publications 
 
 * 🔗 https://www.nature.com/articles/s41598-026-39558-5
 * 🔗 https://linkinghub.elsevier.com/retrieve/pii/S1309104226000140
