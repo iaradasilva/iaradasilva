@@ -60,8 +60,7 @@ I have experience in developing bottom-up emission inventories, numerical modeli
 ---
 ## 📫 Contact
 
-* e-mail: isilva@utfpr.edu.br
-* e-mail: iara_da_silva@hotmail.com
+* e-mails: isilva@utfpr.edu.br  iara_da_silva@hotmail.com
 * Lattes: http://lattes.cnpq.br/3243591335541060
 * orc-id: https://orcid.org/0000-0003-1306-5906
 * LinkedIn: https://www.linkedin.com/in/iara-da-silva-978604a8/
