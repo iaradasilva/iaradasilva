@@ -25,7 +25,7 @@ I have experience in developing bottom-up emission inventories, numerical modeli
 ## 🛠️ Technical Skills
 
 * **Programming:** Python, R
-* **Modeling Systems:** WRF, WRF-Chem, CMAQ
+* **Modeling Systems:** WRF, WRF-Chem, CMAQ, AERMOD
 * **Data Handling:** NetCDF, NCO, CDO
 * **Geospatial Analysis:** GIS, spatial data processing
 * **Statistical Modeling:** regression models, time series analysis
