@@ -11,8 +11,7 @@ Postdoctoral researcher with a background in Environmental Engineering and a Ph.
 I have experience in developing bottom-up emission inventories, numerical modeling (WRF-Chem, CMAQ), and statistical analysis of environmental and epidemiological data.
 
 ---
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iaradasilva_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iaradasilva&show_icons=true&theme=radical)
 ---
 
 ## 💻 Tecnologias, Ferramentas e Linguagens
